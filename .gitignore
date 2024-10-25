@@ -2,3 +2,4 @@ datasets/
 /.idea
 *.pyc
 results/
+cross_encoder_results/
